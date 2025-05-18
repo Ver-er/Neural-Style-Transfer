@@ -1,9 +1,5 @@
 # Neural Style Transfer
 
-<div align="center">
-  <img src="stylized_tf_hub.jpg" alt="Neural Style Transfer Example" width="600"/>
-</div>
-
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: PALADUGU VISHNU VARDHAN
@@ -15,6 +11,11 @@
 *DURATION*: 4 WEEEKS
 
 *MENTOR*: NEELA SANTOSH KUMAR
+
+<div align="center">
+  <img src="stylized_tf_hub.jpg" alt="Neural Style Transfer Example" width="600"/>
+</div>
+
 
 ## 📋 Table of Contents
 
@@ -50,8 +51,8 @@ This project implements neural style transfer using TensorFlow Hub. It applies t
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Ver-er/Neural-Style-Transfer.git
+   cd Neural-Style-Transfer
    ```
 
 2. Install the required packages:
