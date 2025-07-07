@@ -1,16 +1,5 @@
 # Neural Style Transfer
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: PALADUGU VISHNU VARDHAN
-
-*INTERN ID*: CODF32
-
-*DOMAIN*: ARTIFICIAL INTELLIGENCE 
-
-*DURATION*: 4 WEEEKS
-
-*MENTOR*: NEELA SANTOSH KUMAR
 
 <div align="center">
   <img src="stylized_tf_hub.jpg" alt="Neural Style Transfer Example" width="600"/>
